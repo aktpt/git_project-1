@@ -1,0 +1,73 @@
+body {
+    background-color: lightgray;
+}
+
+.title {
+    color:midnightblue;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.table-title {
+    color:midnightblue;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.3em;
+   padding: 15px;
+   background-color: snow;
+}
+
+.tags {
+    color: darkslategray;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+h2 {
+    font-size: 24px;
+    padding: 15px;
+    text-transform: uppercase;
+    background-color: plum;
+    color: darkslateblue;
+}
+
+.name {
+    font-size: 15px;
+    padding: 15px;
+    text-align: left;
+    margin-left: 20px;
+    font-weight: bold;
+    line-height: 2.7;
+    letter-spacing: 0.8px;
+    color:slategrey;
+}
+
+th {
+    border: 6px solid darkslategray;
+
+}
+
+table {
+    text-align: center;
+    margin: 20px auto;
+}
+
+td {
+    border: 4px solid darkslategray;
+    width: 300px;
+    color:slategrey;
+}
+
+.container {
+    max-width:940px;
+    margin: 0 auto;
+    height:800px;
+}
+
+h3 .left {
+    font-size 20px;
+}
